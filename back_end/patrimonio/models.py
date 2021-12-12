@@ -98,7 +98,7 @@ class EstadoBem(models.Model):
     def __str__(self) -> str:
         return self.estado_bem
 
-situacao = (('Em usos','Em usos'),
+situacao = (('Em uso','Em uso'),
             ('Em cautela','Em cautela'),
             ('Em manutencao',"Em manutencao"),
             ('Em disponibilidade','Em disponibilidade'),

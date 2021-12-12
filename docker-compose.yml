@@ -6,7 +6,7 @@ services:
     container_name: banco-django
     restart: unless-stopped
     environment:
-      POSTGRES_DB: clientes-db
+      POSTGRES_DB: backlog-db
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: admin1234
     ports:
@@ -14,8 +14,8 @@ services:
     networks:
           - aula-network
 
-  django-aula:
-        container_name: django-aula
+  lccvbacklog:
+        container_name: lccvbacklog
         restart: unless-stopped
         environment:
           DJANGO_SETTINGS_MODULE: 'desafio.settings'
