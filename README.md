@@ -1,5 +1,5 @@
 # Sobre o Desafio
-Diferente do desenvolvimento do Front-end, na implementação do Back-end, encontrei sim dificuldades, porém não foram tantas, pois como já tenho um certo conhecimento em porgramação em Python e as tentativas e erros feitas no desenvolvimento do Front me ajudaram a ter conhecimento sobre dependêcias e entender um pouco melhor como um framework funciona. Com certeza me interessou muito mais a parte do Back-end, como dito antes, caso não consiga a bolsa, me interesso por ser voluntário.
+Diferente do desenvolvimento do Front-end, na implementação do Back-end, encontrei sim dificuldades, porém não foram tantas, pois como já tenho um certo conhecimento em porgramação em Python e as tentativas e erros feitas no desenvolvimento do Front me ajudaram a ter conhecimento sobre dependêcias e entender um pouco melhor como um framework funciona. Com certeza me interessou muito mais a parte do Back-end, como dito antes, caso não consiga a bolsa me interesso por ser voluntário.
 
 Link do front-end: https://github.com/arturcavalcantej/implementacao-portal-patrimonio-com-angular
 
