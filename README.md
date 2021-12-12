@@ -5,10 +5,10 @@ Link do front-end: https://github.com/arturcavalcantej/implementacao-portal-patr
 
 # Portal Patrimônio
 Implementação do Desafio do LCCV baseado no Backlog Desafio disponibilizado no Google Classroom, logo abaixo segue o que foi 
-possivel ser realizado(e também o que não foi possivel) no back-end, tendo em vista que não foi possivel fazer a integração de ambos.
+possível realizado no back-end, tendo em vista que não conseguir fazer a integração do back e front.
 
 # Implementação do Back-End
-Seguindo o que foi disposto no DER - DIAGRAMA ENTIDADE-RELACIONAMENTO e no BACKLOG, a implementação do back-end utilizando Django e Django restframework foi realizada de forma completa todas as funcionaliades para o back-end tanto a configuração das entidades através de models,serializers e views, urls etc.
+Seguindo o que foi disposto no DER - DIAGRAMA ENTIDADE-RELACIONAMENTO e no BACKLOG, a implementação do back-end utilizando Django e Django restframework foi realizada de forma completa todas as funcionaliades para o back-end, tanto a configuração das entidades através de models,serializers e views, urls etc.
 
 Foram implementadas de forma complementar: Swagger, authentication(JSON Web Token) e um encapsulamento de dados sensíveis.
 # Swagger
