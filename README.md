@@ -28,3 +28,7 @@ Após criado, digite:
 ```
 docker-compose up
 ```
+Acessar o swagger:
+```
+localhost:8000/swagger
+```
